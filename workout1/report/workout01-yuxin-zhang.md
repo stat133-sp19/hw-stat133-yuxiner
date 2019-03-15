@@ -14,27 +14,37 @@ Main Players
 Andre Iguodala
 --------------
 
-![Andre Iguodala](https://en.wikipedia.org/wiki/Andre_Iguodala#/media/File:Andre_Iguodala_2016_(cropped).jpg) Andre Igodara is physically fit, bouncing amazingly, with a superhuman arm stretch. Attacking desire is not strong. Shooting is not very stable. Scoring is mostly through fast breaks and make-up.He often forced breakthroughs to create fouls. He is very active in defense, able to defend three positions outside the line. The rebounding ability is superior in the guard, the super long arm stretch makes him an all-round player.
+<img src="../images/Andre_Iguodala.jpg" width="80%" style="display: block; margin: auto;" />
+
+Andre Igodara is physically fit, bouncing amazingly, with a superhuman arm stretch. Attacking desire is not strong. Shooting is not very stable. Scoring is mostly through fast breaks and make-up.He often forced breakthroughs to create fouls. He is very active in defense, able to defend three positions outside the line. The rebounding ability is superior in the guard, the super long arm stretch makes him an all-round player.
 
 Draymond Green
 --------------
 
-![Draymond Green](https://en.wikipedia.org/wiki/Draymond_Green#/media/File:Draymond_Green_against_Washington_(cropped).jpg) As the "glue" of the team, Drummond Green's greatest contribution lies in his rebounds. On the inside, Green's excellent vision and passing ability always make the defender lose points. Green's passing is always timely. Back to the basket, Green is a rather cunning player, and he's defensive to turn around the baseline or towards the penalty area. But Green doesn't have a particularly outstanding technology and is in an awkward position.
+<img src="../images/Draymond Green.jpg" width="80%" style="display: block; margin: auto;" />
+
+As the "glue" of the team, Drummond Green's greatest contribution lies in his rebounds. On the inside, Green's excellent vision and passing ability always make the defender lose points. Green's passing is always timely. Back to the basket, Green is a rather cunning player, and he's defensive to turn around the baseline or towards the penalty area. But Green doesn't have a particularly outstanding technology and is in an awkward position.
 
 Kevin Durant
 ------------
 
-![Kevin Durant](https://en.wikipedia.org/wiki/Kevin_Durant#/media/File:Golden_State_Warriors_Small_Forward_Kevin_Durant_(cropped).jpg) His skill in ball control is exceptionally skillful, swift cross-over, turn, stop jump shot and other actions can only be seen on the guard. Shooting feels soft and can score anywhere in the field. No one can block his jump shot. The organizational ability and passing consciousness of the guard level can activate the attack of the whole team by one person. Rebounds are aggressive, especially offensive rebounds. The ability to control the ball is extremely rare in this height. Durant's most outstanding skill is his stable ability to shoot in the middle, no matter from the shooting action or shooting percentage he is impeccable. His free throw is also one of his strengths.
+<img src="../images/Kevin Durant.jpg" width="80%" style="display: block; margin: auto;" />
+
+His skill in ball control is exceptionally skillful, swift cross-over, turn, stop jump shot and other actions can only be seen on the guard. Shooting feels soft and can score anywhere in the field. No one can block his jump shot. The organizational ability and passing consciousness of the guard level can activate the attack of the whole team by one person. Rebounds are aggressive, especially offensive rebounds. The ability to control the ball is extremely rare in this height. Durant's most outstanding skill is his stable ability to shoot in the middle, no matter from the shooting action or shooting percentage he is impeccable. His free throw is also one of his strengths.
 
 Klay Thompson
 -------------
 
-![Klay Thompson](https://en.wikipedia.org/wiki/Klay_Thompson#/media/File:Klay_Thompson_vs._Jared_Dudley_(cropped).jpg) Projection is Clay Thompson's greatest value, but Thompson's offensive skills are relatively single, lack of being skilled in ball control. Thompson can't play the role of the ball-holder. He's more like a catching and shooting machine. Thompson seldom goes to the penalty area, because the technique of independent attack is not good enough, it is difficult to get a free throw.
+<img src="../images/Klay Thompson.jpg" width="80%" style="display: block; margin: auto;" /> Projection is Clay Thompson's greatest value, but Thompson's offensive skills are relatively single, lack of being skilled in ball control. Thompson can't play the role of the ball-holder. He's more like a catching and shooting machine. Thompson seldom goes to the penalty area, because the technique of independent attack is not good enough, it is difficult to get a free throw.
 
 Stephen Curry
 -------------
 
-![Stephen Curry](https://en.wikipedia.org/wiki/Stephen_Curry#/media/File:Stephen_Curry_Shooting_(cropped).jpg) Stephen Cooley is good at dribbling and jump shots, and shooting can cover the whole half. He is excellent at ball control, one-to-one through ball control to find out the mobile position, and has a large number of three points. Because of his thin body, Kuri is not easy to enter the restricted area and lacks aggression. &gt;"Stephen Cooley's skill is quite comprehensive. He can create mobile phone opportunities by dribbling balls, catch jump shots after running, and shoot at fixed points. It's no problem to combine these abilities. That's his specialty."
+<img src="../images/Stephen Curry.jpg" width="80%" style="display: block; margin: auto;" />
+
+Stephen Cooley is good at dribbling and jump shots, and shooting can cover the whole half. He is excellent at ball control, one-to-one through ball control to find out the mobile position, and has a large number of three points. Because of his thin body, Kuri is not easy to enter the restricted area and lacks aggression.
+
+> "Stephen Cooley's skill is quite comprehensive. He can create mobile phone opportunities by dribbling balls, catch jump shots after running, and shoot at fixed points. It's no problem to combine these abilities. That's his specialty."
 
 Data Analysis and Technical Graphics
 ====================================
@@ -124,7 +134,7 @@ A good team bound to have excellent players.The analysis of five major players i
 
 -   Kevin Durant As the main offensive point, his offensive ability is strong, the number of effective attacks is most high, especially the 2-points shots. His offensive firepower radiation all-round, is able to get scoring point in any position of the court. What's more, his single ability is worth mentioning.
 
--   Klay Thompson Thompson is the main three-point shooter in the team, and be allocates more ball power. As the end of offensive tactics, and the shooting percentage is very high. His shooting area is also large. Clay has made 1220 shots in the regular season, in exchange for a very high 47.13115% shooting percentage. Clay has polished his skilled free-space shooting and fixed three-point shooting skills after running without the ball. The highest percentage of three-point shooting is 42%, which is the best proof.
+-   Klay Thompson Thompson is the main three-point shooter in the team, and be allocates more ball power. As the end of offensive tactics, and the shooting percentage is very high. His shooting area is also large.Klay has made 1220 shots in the regular season, in exchange for a very high 47.13115% shooting percentage. Clay has polished his skilled free-space shooting and fixed three-point shooting skills after running without the ball. The highest percentage of three-point shooting is 42%, which is the best proof.
 
 -   Stephen Curry Curie is also the team's main three-point shooter, and is very similar with Thompson in shooting. The team allocates high ball power on him, and shooting percentage is very high. Specially, his shooting position is very far from the basketball hoop，even to the midfield line.He has excellent three-point shots that make him one of the most horrible scorers in the league.
 
