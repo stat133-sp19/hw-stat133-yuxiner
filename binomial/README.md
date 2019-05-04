@@ -25,16 +25,19 @@ Install the development version from GitHub via the package `"devtools"`:
 # development version from GitHub:
 #install.packages("devtools") 
 # install "cointoss" (without vignettes)
-#devtools::install_github("https://github.com/stat133-sp19/hw-stat133-yuxiner/binomial")
+#devtools::install_github("https://github.com/stat133-sp19/hw-stat133-yuxiner/tree/master/binomial")
 # install "cointoss" (with vignettes)
-#devtools::install_github("https://github.com/stat133-sp19/hw-stat133-yuxiner/binomial", build_vignettes = TRUE)
+#devtools::install_github("https://github.com/stat133-sp19/hw-stat133-yuxiner/tree/master/binomial", build_vignettes = TRUE)
+```
+
+``` r
+library(binomial)
 ```
 
 Usage
 -----
 
 ``` r
-library(binomial)
 #calculates the number of combinations in which k successes can occur in n trials
 bin_choose(n = 5, k = 2)
 #> [1] 10
@@ -70,7 +73,7 @@ dis1 <- bin_distribution(trials = 5, prob = 0.5)
 plot(dis1)
 ```
 
-![](README-unnamed-chunk-3-1.png)
+![](README-unnamed-chunk-4-1.png)
 
 ``` r
 
@@ -98,7 +101,7 @@ dis2 <- bin_cumulative(trials = 5, prob = 0.5)
 plot(dis2)
 ```
 
-![](README-unnamed-chunk-3-2.png)
+![](README-unnamed-chunk-4-2.png)
 
 ``` r
 
